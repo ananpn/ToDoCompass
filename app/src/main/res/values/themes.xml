@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.ToDoCompass"
+        parent="android:Theme.Material.NoActionBar">
+        <!--
+        <item name="android:windowShowWallpaper">true</item>
+        <item name="android:windowBackground">@color/black_70</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:itemBackground">@android:color/transparent</item>
+        -->
+    </style>
+<!--
+    <style name="Theme.NavBarTheme" parent="Widget.Design.NavigationView">
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:itemBackground">@android:color/transparent</item>
+    </style>
+
+    <style name="AppOverviewStyle" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:background">@android:color/transparent</item>
+    </style>
+    -->
+</resources>
